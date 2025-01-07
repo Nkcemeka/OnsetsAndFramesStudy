@@ -1,11 +1,5 @@
-# Welcome to your Jupyter Book
-
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
-
-Check out the content pages bundled with this sample book to see more.
+# Introduction to Automatic Music Transcription: Breaking down Onsets and Frames
+This is a small book that attempts to introduce beginners to the field of automatic music transcription using deep learning. The base model for this study will be Jongwook Kim's implementation of Onsets and Frames. This book will have a balance of mathemtical and practical components. Hopefully, it will prove useful for anyone who attempts to get into this space.
 
 ```{tableofcontents}
 ```
