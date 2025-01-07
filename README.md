@@ -3,8 +3,10 @@ This is my attempt to understand the Automatic Music Transcription space using O
 
 
 ## Link to Book
-To access the book as I update it, ypou can copy and paste the link below in your browser.
+To access the book as I update it, you can copy and paste the link below in your browser.
 
 ---
+
 https://nkcemeka.github.io/OnsetsAndFramesStudy/intro.html
+
 ---
