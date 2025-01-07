@@ -715,7 +715,7 @@ N = \frac{F_{s}}{F_{band}}
 </section>
 <section id="visualizing-the-cqt-spectrogram">
 <h3>Visualizing the CQT Spectrogram<a class="headerlink" href="#visualizing-the-cqt-spectrogram" title="Permalink to this heading">#</a></h3>
-<p>Before, we visualize the CQT, to know more about the theory, you can check out <a class="reference external" href="http://academics.wellesley.edu/Physics/brown/pubs/cq1stPaper.pdf">this paper</a> which covers it in great detail.</p>
+<p>Before we visualize the CQT, to know more about the theory, you can check out <a class="reference external" href="http://academics.wellesley.edu/Physics/brown/pubs/cq1stPaper.pdf">this paper</a> which covers it in great detail.</p>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">cqt</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">abs</span><span class="p">(</span><span class="n">librosa</span><span class="o">.</span><span class="n">cqt</span><span class="p">(</span><span class="n">y</span><span class="o">=</span><span class="n">audio_signal</span><span class="p">,</span> <span class="n">sr</span><span class="o">=</span><span class="n">sample_rate</span><span class="p">,</span> <span class="n">bins_per_octave</span><span class="o">=</span><span class="mi">24</span><span class="p">))</span>
